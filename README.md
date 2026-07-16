@@ -10,13 +10,13 @@
 
 ## 🗂 Sumário
 
-- [📝 Descrição da Lista](https://github.com/Victor-M-S-Rodrigues07/Python__Treinamento_de_Condicionais_If_Elif_e_Else__Lista_de_Exercicios_N1_2026#-descri%C3%A7%C3%A3o-da-lista)
-- [🎯 Objetivos da Lista](https://github.com/Victor-M-S-Rodrigues07/Python__Treinamento_de_Condicionais_If_Elif_e_Else__Lista_de_Exercicios_N1_2026#-objetivos-da-lista)
-- [💻 Tecnologias Utilizadas](https://github.com/Victor-M-S-Rodrigues07/Python__Treinamento_de_Condicionais_If_Elif_e_Else__Lista_de_Exercicios_N1_2026#-tecnologias-utilizadas)
-- [💪🏻 Exercícios](https://github.com/Victor-M-S-Rodrigues07/Python__Treinamento_de_Condicionais_If_Elif_e_Else__Lista_de_Exercicios_N1_2026#-exerc%C3%ADcios)
-- [📂 Estrutura da Lista](https://github.com/Victor-M-S-Rodrigues07/Python__Treinamento_de_Condicionais_If_Elif_e_Else__Lista_de_Exercicios_N1_2026#-estrutura-da-lista)
-- [✨Autor](https://github.com/Victor-M-S-Rodrigues07/Python__Treinamento_de_Condicionais_If_Elif_e_Else__Lista_de_Exercicios_N1_2026#autor)
-- [👨🏻‍💻 Contatos](https://github.com/Victor-M-S-Rodrigues07/Python__Treinamento_de_Condicionais_If_Elif_e_Else__Lista_de_Exercicios_N1_2026#%E2%80%8D-contatos--refer%C3%AAncias)
+- [📝 Descrição da Lista](https://github.com/Victor-M-S-Rodrigues07/Python__Treinamento_de_Lacos_de_Repeticao_for_e_while__Projeto_N2_2026#-descri%C3%A7%C3%A3o-da-lista)
+- [🎯 Objetivos da Lista](https://github.com/Victor-M-S-Rodrigues07/Python__Treinamento_de_Lacos_de_Repeticao_for_e_while__Projeto_N2_2026#-objetivos-da-lista)
+- [💻 Tecnologias Utilizadas](https://github.com/Victor-M-S-Rodrigues07/Python__Treinamento_de_Lacos_de_Repeticao_for_e_while__Projeto_N2_2026#-tecnologias-utilizadas)
+- [🧩 Exercícios](https://github.com/Victor-M-S-Rodrigues07/Python__Treinamento_de_Lacos_de_Repeticao_for_e_while__Projeto_N2_2026#-exerc%C3%ADcios)
+- [📂 Estrutura da Lista](https://github.com/Victor-M-S-Rodrigues07/Python__Treinamento_de_Lacos_de_Repeticao_for_e_while__Projeto_N2_2026#-estrutura-da-lista)
+- [✨Autor](https://github.com/Victor-M-S-Rodrigues07/Python__Treinamento_de_Lacos_de_Repeticao_for_e_while__Projeto_N2_2026#autor)
+- [👨🏻‍💻 Contatos](https://github.com/Victor-M-S-Rodrigues07/Python__Treinamento_de_Lacos_de_Repeticao_for_e_while__Projeto_N2_2026#%E2%80%8D-contatos--refer%C3%AAncias)
 
 ## 📝 Descrição da Lista
 
